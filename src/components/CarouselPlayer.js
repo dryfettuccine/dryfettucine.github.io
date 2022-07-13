@@ -15,6 +15,7 @@ const YoutubeSlide = ({ url, isSelected }) => (
       width="50%"
       url={url}
       playing={isSelected}
+      controls={true}
     />
   </div>
 );
