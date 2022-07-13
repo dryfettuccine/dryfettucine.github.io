@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aac80d78.css",
+    "main.js": "/static/js/main.cf273b05.js",
+    "static/js/787.26bf0a29.chunk.js": "/static/js/787.26bf0a29.chunk.js",
+    "static/media/Meteor-Music.png": "/static/media/Meteor-Music.fd308cb5eea2d8ef087a.png",
+    "index.html": "/index.html",
+    "main.aac80d78.css.map": "/static/css/main.aac80d78.css.map",
+    "main.cf273b05.js.map": "/static/js/main.cf273b05.js.map",
+    "787.26bf0a29.chunk.js.map": "/static/js/787.26bf0a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac80d78.css",
+    "static/js/main.cf273b05.js"
+  ]
+}
