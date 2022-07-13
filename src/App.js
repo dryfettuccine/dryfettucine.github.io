@@ -5,7 +5,7 @@ import { Component } from "react";
 import { CssBaseline, GlobalStyles } from "@mui/material";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Stars from "./finalstars.mp4";
+import Stars from "./stars.mp4";
 import "./video.css";
 import MeteorMusic from "./Meteor-Music.png";
 
