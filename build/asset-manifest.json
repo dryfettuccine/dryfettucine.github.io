@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/dryfettucine.github.io/static/css/main.aac80d78.css",
-    "main.js": "/dryfettucine.github.io/static/js/main.9552df92.js",
+    "main.js": "/dryfettucine.github.io/static/js/main.89d4582c.js",
     "static/js/787.26bf0a29.chunk.js": "/dryfettucine.github.io/static/js/787.26bf0a29.chunk.js",
+    "static/media/finalstars.mp4": "/dryfettucine.github.io/static/media/finalstars.fe40423030b881a92aa9.mp4",
     "static/media/Meteor-Music.png": "/dryfettucine.github.io/static/media/Meteor-Music.fd308cb5eea2d8ef087a.png",
     "index.html": "/dryfettucine.github.io/index.html",
     "main.aac80d78.css.map": "/dryfettucine.github.io/static/css/main.aac80d78.css.map",
-    "main.9552df92.js.map": "/dryfettucine.github.io/static/js/main.9552df92.js.map",
+    "main.89d4582c.js.map": "/dryfettucine.github.io/static/js/main.89d4582c.js.map",
     "787.26bf0a29.chunk.js.map": "/dryfettucine.github.io/static/js/787.26bf0a29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aac80d78.css",
-    "static/js/main.9552df92.js"
+    "static/js/main.89d4582c.js"
   ]
 }
