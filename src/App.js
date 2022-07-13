@@ -12,7 +12,7 @@ import MeteorMusic from "./Meteor-Music.png";
 export class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename="/dryfettucine.github.io">
         <ThemeProvider theme={Theme}>
           <CssBaseline />
           <div>
