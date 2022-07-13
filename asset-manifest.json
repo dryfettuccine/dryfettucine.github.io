@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aac80d78.css",
+    "main.js": "/static/js/main.fe711e5c.js",
+    "static/js/787.26bf0a29.chunk.js": "/static/js/787.26bf0a29.chunk.js",
+    "static/media/starrybackground.mp4": "/static/media/starrybackground.c49e5cc1044a420163a8.mp4",
+    "static/media/Meteor-Music.png": "/static/media/Meteor-Music.fd308cb5eea2d8ef087a.png",
+    "index.html": "/index.html",
+    "main.aac80d78.css.map": "/static/css/main.aac80d78.css.map",
+    "main.fe711e5c.js.map": "/static/js/main.fe711e5c.js.map",
+    "787.26bf0a29.chunk.js.map": "/static/js/787.26bf0a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac80d78.css",
+    "static/js/main.fe711e5c.js"
+  ]
+}
